@@ -9,7 +9,7 @@ const projects = [
   {
     title: "Learning Management System",
     description: "A comprehensive LMS platform enabling educators to create courses, manage students, and track progress. Features include video lessons, quizzes, assignments, and real-time progress tracking.",
-    image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?w=800&h=600&fit=crop",
+    image: "https://res.cloudinary.com/dczbo1dk1/image/upload/v1764440582/10_zd1prc.png",
     tags: ["React", "Django", "PostgreSQL", "REST API", "WebSockets"],
     features: ["Course Management", "Video Streaming", "Progress Tracking", "Discussion Forums"],
     gradient: "from-blue-500 to-cyan-500",
@@ -17,7 +17,7 @@ const projects = [
   {
     title: "Freelancing Platform",
     description: "A full-featured marketplace connecting freelancers with clients. Includes project bidding, escrow payments, real-time messaging, and review systems to ensure quality transactions.",
-    image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop",
+    image: "https://res.cloudinary.com/dczbo1dk1/image/upload/v1764440253/pixel_mbjpqa.jpg",
     tags: ["React", "Django", "Redux", "Stripe API", "WebRTC"],
     features: ["Project Bidding", "Secure Payments", "Live Chat", "Rating System"],
     gradient: "from-purple-500 to-pink-500",
