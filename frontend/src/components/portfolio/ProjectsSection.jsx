@@ -9,7 +9,7 @@ const projects = [
   {
     title: "Learning Management System",
     description: "A comprehensive LMS platform enabling educators to create courses, manage students, and track progress. Features include video lessons, quizzes, assignments, and real-time progress tracking.",
-    image: "https://res.cloudinary.com/dczbo1dk1/image/upload/v1764440582/10_zd1prc.png",
+    image: "https://res.cloudinary.com/dczbo1dk1/image/upload/v1764441094/10_zd1prc.png",
     tags: ["React", "Django", "PostgreSQL", "REST API", "WebSockets"],
     features: ["Course Management", "Video Streaming", "Progress Tracking", "Discussion Forums"],
     gradient: "from-blue-500 to-cyan-500",
