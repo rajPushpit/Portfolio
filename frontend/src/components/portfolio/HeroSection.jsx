@@ -137,7 +137,7 @@ export default function HeroSection() {
           className="flex justify-center md:justify-end"
         >
           <img
-            src="/praj.jpg"
+            src="/pushpitraj.jpg"
             alt="Pushpit Raj"
             className="w-64 md:w-80 lg:w-96 rounded-3xl shadow-lg shadow-purple-500/30 border border-white/10 object-cover"
           />
