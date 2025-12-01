@@ -13,6 +13,7 @@ const projects = [
     tags: ["React", "Django", "PostgreSQL", "REST API", "WebSockets"],
     features: ["Course Management", "Video Streaming", "Progress Tracking", "Discussion Forums"],
     gradient: "from-blue-500 to-cyan-500",
+    github: "https://github.com/rajPushpit/LMS_-SLearn"
   },
   {
     title: "Freelancing Platform",
@@ -101,9 +102,11 @@ export default function ProjectsSection() {
                         <ExternalLink className="w-4 h-4 mr-2" />
                         Live Demo
                       </Button>
-                      <Button variant="outline" className="border-slate-300">
+                      <Button asChild variant="outline" className="border-slate-300">
+                      <a href={project.github} target="_blank" rel="noopener noreferrer">
                         <Github className="w-4 h-4 mr-2" />
-                        View Code
+                        View Code 
+                        </a>
                       </Button>
                     </div>
                   </div>
