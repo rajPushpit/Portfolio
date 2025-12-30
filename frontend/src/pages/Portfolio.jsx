@@ -55,7 +55,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="bg-slate-900 text-white py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
-          <p className="text-slate-400">© 2025 Pushpit Raj. Built with React & Framer Motion</p>
+          <p className="text-slate-400">© {new Date().getFullYear()} Pushpit Raj. Built with React & Framer Motion</p>
           <div className="flex justify-center gap-6 mt-4">
             <a href="https://github.com/rajPushpit" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">
               <Github className="w-5 h-5" />
