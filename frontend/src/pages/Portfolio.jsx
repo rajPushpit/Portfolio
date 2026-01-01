@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { useScroll, } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
 import { Github, Linkedin, Mail, Code2, ExternalLink, ChevronDown, Sparkles } from "lucide-react";
 import { Button } from "../components/ui/button.jsx";
 import HeroSection from "../components/portfolio/HeroSection";
